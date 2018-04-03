@@ -10,3 +10,11 @@
 ## 撤回commit 
 
 `git reset —mixed <commit_id>`
+
+## 分支更换名称
+
+`git branch -m 原名 新名`
+
+## 删除本地分支
+
+`git branch -r -d origin/xxxx`
